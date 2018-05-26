@@ -1,0 +1,14 @@
+{
+  "name": "koatesting",
+  "version": "1.0.0",
+  "description": "Acclimation to KOA",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "author": "Georgie Payne",
+  "license": "ISC",
+  "dependencies": {
+    "koa": "^2.5.1"
+  }
+}
