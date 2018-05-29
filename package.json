@@ -15,6 +15,8 @@
     "koa-cors": "0.0.16",
     "koa-handlebars": "^1.0.0",
     "koa-static-folder": "^0.1.6",
+    "react-redux": "^5.0.7",
+    "redux": "^4.0.0",
     "simple-redux-form": "^0.1.0"
   }
 }
