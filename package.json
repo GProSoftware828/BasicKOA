@@ -9,6 +9,12 @@
   "author": "Georgie Payne",
   "license": "ISC",
   "dependencies": {
-    "koa": "^2.5.1"
+    "handlebars": "^4.0.11",
+    "koa": "^2.5.1",
+    "koa-body": "^1.7.0",
+    "koa-cors": "0.0.16",
+    "koa-handlebars": "^1.0.0",
+    "koa-static-folder": "^0.1.6",
+    "simple-redux-form": "^0.1.0"
   }
 }
