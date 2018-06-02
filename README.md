@@ -4,9 +4,9 @@ This is an app for guests at a wedding to put in their attendance upon arrival b
 
 Currently working on the troubleshooting. Building this app on the side.
 
-## Strange React error, but also after this ```javascript export default ``` coding needed:
+## Strange React error where commented out line is shown as undefined, but also after this ```javascript export default ``` coding needed:
 
-![Commented out still error](http://i64.tinypic.com/2eaor9x.jpg)
+![Commented out still error](http://i64.tinypic.com/2wbysqo.jpg)
 
 ## Example:
 
