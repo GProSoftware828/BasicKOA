@@ -1,11 +1,16 @@
-import _ from 'lodash';
-import React, { Component } from 'react';
-import { reduxForm, Field } from 'redux-form';
-import { Link } from 'react-router-dom';
-import formField from './formField';
-import invalidEmails from './validateEmails';
-import FormReview from './FormReview';
-import formAutos from './formAutos';
+# Introduction
+
+This is an app for guests at a wedding to put in their attendance upon arrival built with a KOA server.
+
+Currently working on the troubleshooting. Building this app on the side.
+
+## Strange React error, but also after this ```javascript export default ``` coding needed:
+
+![Commented out still error](http://i64.tinypic.com/2eaor9x.jpg)
+
+## Example:
+
+```javascript
 
 class formNew extends Component {
 	state = { showFormReview: false };
@@ -64,3 +69,5 @@ export default reduxForm({
 	form: 'formNew',
 	destroyOnUnmount: false
 })(formNew);
+
+```
